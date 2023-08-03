@@ -1,0 +1,2 @@
+# AwesomeHikingBlogVer3
+ 
