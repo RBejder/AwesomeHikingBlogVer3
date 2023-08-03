@@ -9,6 +9,6 @@ This is my first post in this Quarto blog. Welcome!
 
 ![](skamling.jpg)
 
-The purpose of this blog is to share hiking trips, gear, trails, orienteering games ect./br
-At first, primarily in Sweden but in the future anything is posible./br
+The purpose of this blog is to share hiking trips, gear, trails, orienteering games etc.
+At first, primarily in Sweden but in the future anything is posible.
 At the moment we are preparing for the long hike of Kungsleden (King's Trail) in north sweden.
