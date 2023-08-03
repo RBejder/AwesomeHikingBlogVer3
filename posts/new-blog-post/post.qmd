@@ -1,0 +1,13 @@
+---
+title: "Welcome To My Blog"
+author: "Rasmus Bejder"
+date: "2023-08-03"
+categories: [blog]
+---
+
+This is the first post in a Quarto blog. Welcome!
+
+![](skamling.jpg)
+
+Here is a pricture i took.
+

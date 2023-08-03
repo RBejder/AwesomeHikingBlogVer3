@@ -2,17 +2,17 @@ project:
   type: website
 
 website:
-  title: "AwesomeHikingBlogVer3"
+  title: "Awesome hiking blog"
   navbar:
     right:
-      - about.qmd
+      - blog.qmd
       - icon: github
         href: https://github.com/
       - icon: twitter
         href: https://twitter.com
 format:
   html:
-    theme: cosmo
+    theme: darkly
     css: styles.css
 
 
