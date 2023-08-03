@@ -5,9 +5,10 @@ date: "2023-08-03"
 categories: [blog]
 ---
 
-This is the first post in a Quarto blog. Welcome!
+This is my first post in this Quarto blog. Welcome!
 
 ![](skamling.jpg)
 
-Here is a pricture i took.
-
+The purpose of this blog is to share hiking trips, gear, trails, orienteering games ect./br
+At first, primarily in Sweden but in the future anything is posible./br
+At the moment we are preparing for the long hike of Kungsleden (King's Trail) in north sweden.
