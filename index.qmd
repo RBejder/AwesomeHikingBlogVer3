@@ -20,6 +20,7 @@ about:
       text: instagram
       href: https://www.instagram.com/rb.venture/
       {target: "_blank"}
+    [![GitHub Icon](https://github.com/RBejder)](https://github.com){:target="_blank"} GitHub
 
 ---
 
