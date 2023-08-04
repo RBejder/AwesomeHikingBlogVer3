@@ -9,10 +9,10 @@ website:
       - blog.qmd
       - icon: github
         href: https://github.com/RBejder
-        target: _blank
+        target: "_blank"
       - icon: instagram
         href: https://www.instagram.com/rb.venture/
-        target: _blank
+        target: "_blank"
 format:
   html:
     theme: darkly
