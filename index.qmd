@@ -19,7 +19,7 @@ about:
     - icon: instagram
       text: instagram
       href: https://www.instagram.com/rb.venture/
-      target: "_blank"
+      {target: "_blank"}
 
 ---
 
