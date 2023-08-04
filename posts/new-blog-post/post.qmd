@@ -8,7 +8,7 @@ categories: [blog, hiking, photography]
 This is my first post in this Quarto blog. Welcome!
 
 ![Landscape picture from Skamling, Denmark](skamling.jpg)
-<br>
+   <br>
 ![sunset picture on beach](https://res.cloudinary.com/dc1kxjjka/image/upload/v1691148986/Hiking%20blog/IMG_6112_01_dryrdx.jpg)
 
 The purpose of this blog is to share hiking trips, gear, trails, pictures, orienteering games etc.<br>
