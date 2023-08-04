@@ -2,8 +2,8 @@
 title: "Welcome To My Blog"
 author: "Rasmus Bejder"
 date: "2023-08-03"
-categories: [blog]
----
+categories: [blog hiking photography]
+--- 
 
 This is my first post in this Quarto blog. Welcome!
 
@@ -13,4 +13,4 @@ This is my first post in this Quarto blog. Welcome!
 
 The purpose of this blog is to share hiking trips, gear, trails, pictures, orienteering games etc.<br>
 At first, primarily in Sweden but in the future anything is posible.<br>
-At the moment we are preparing for the 400km long hike of Kungsleden (King's Trail) in north sweden. So far the plan is to do this in 2024<br>
+At the moment we are preparing for the, more than, 400km long hike of Kungsleden (King's Trail) in north sweden. So far the plan is to do this in 2024<br>
