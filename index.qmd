@@ -15,7 +15,7 @@ about:
       href: https://github.com
     - icon: instagram
       text: instagram
-      href: https://www.instagram.com/rb.venture/
+      href: https://www.instagram.com/rb.venture/ {target="_blank"}
 
 ---
 
