@@ -1,5 +1,5 @@
 ---
-title: "AwesomeHikingBlogVer3"
+title: "Awesome Hiking Blog"
 listing:
   contents: posts
   sort: "date desc"

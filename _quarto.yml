@@ -9,8 +9,6 @@ website:
       - blog.qmd
       - icon: github
         href: https://github.com/RBejder
-      - icon: twitter
-        href: https://twitter.com
       - icon: instagram
         href: https://www.instagram.com/rb.venture/
 format:
