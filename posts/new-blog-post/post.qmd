@@ -5,12 +5,14 @@ date: "2023-08-03"
 categories: [blog, hiking, photography]
 --- 
 
-This is my first post in this Quarto blog. Welcome!
+This is my first post in this Quarto blog. Welcome! <br>
+![A picture of Lizel and Rasmus](https://res.cloudinary.com/dc1kxjjka/image/upload/v1691427573/Hiking%20blog/IMG-20230710-WA0022_hanrbh.jpg)
 
-![Landscape picture from Skamling, Denmark](skamling.jpg)
-   <br>
-![sunset picture on beach](https://res.cloudinary.com/dc1kxjjka/image/upload/v1691148986/Hiking%20blog/IMG_6112_01_dryrdx.jpg)
+Welcome to our blog<br>
 
-The purpose of this blog is to share hiking trips, gear, trails, pictures, orienteering games etc.<br>
-At first, primarily in Sweden but in the future anything is posible.<br>
-At the moment we are preparing for the, more than, 400km long hike of Kungsleden (King's Trail) in north sweden. So far the plan is to do this in 2024<br>
+The idea of this blog is simply to share our hiking and other adventures.<br>
+We are Lizel and Rasmus, located in Sweden and Denmark. Most of our trips are, and will be happening, in Sweden. But in the future, we are very likely to explore many other places.<br>
+Lizel is a bioinformatician at a university in south Sweden and i am studying multimedia design in Denmark. Before this change i have also worked with customer service, forestry, wilderness guiding, and I’ve been an Operations Associate at an insurance company.<br>
+Our interests range far and wide, aside from hiking and camping we enjoy festivals, gigs, urban exploration board games and playing with technology which is also one of the reasons to start this blog.<br>
+If you stick around, we are likely to talk about our hiking routs, map resources, some orienteering games, gear, upcoming adventures and probably many other things.<br>
+
