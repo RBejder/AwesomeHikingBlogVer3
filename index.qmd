@@ -1,26 +1,14 @@
 ---
-title: "About"
-image: profile.jpg
-about:
-  template: jolla
-  links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com
-      target: "_blank"
-    - icon: linkedin
-      text: LinkedIn
-      href: https://linkedin.com
-      target: "_blank"
-    - icon: github
-      text: Github
-      href: https://github.com
-      target: "_blank"
-    - icon: instagram
-      text: instagram
-      href: https://www.instagram.com/rb.venture/
-      target: "_blank"
-
+title: "Awesome Hiking Blog"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
 ---
 
-About this blog
+
