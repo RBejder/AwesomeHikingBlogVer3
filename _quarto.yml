@@ -6,13 +6,13 @@ website:
   title: "Awesome hiking blog"
   navbar:
     right:
-      - blog.qmd
+      - index.qmd
       - icon: github
-      text: Github
+        text: Github
         href: https://github.com/RBejder
         target: "_blank"
       - icon: instagram
-      text: Instagram
+        text: Instagram
         href: https://www.instagram.com/rb.venture/
         target: "_blank"
 format:
